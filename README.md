@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/puile/snk/output/github-contribution-grid-snake.svg" width="90%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Puile</h1>
 
 <!--
 **puile/puile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
