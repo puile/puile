@@ -2,8 +2,14 @@
   <img src="https://raw.githubusercontent.com/puile/snk/output/github-contribution-grid-snake.svg" width="90%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Puile</h1>
+<h1 align="center">Hi, I'm Puile actually is Pupil</h1>
 
+- 🔭 I’m currently working on CAS-AIR company
+- 🌱 I’m currently learning DL、GPR-signal process、TEM、and any other Geoscience work
+- 👯 I code in MATLAB & Python, build signal-processing models, and simulate electromagnetic waves.
+- 🤔 I’m looking for help with resistivity inversion
+- 📫 Email me: 392819470@qq.com
+- 😄 Pronouns: He/His
 <!--
 **puile/puile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
